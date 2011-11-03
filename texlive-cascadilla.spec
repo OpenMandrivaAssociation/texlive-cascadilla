@@ -1,3 +1,9 @@
+# revision 23449
+# category Package
+# catalog-ctan /macros/latex/contrib/cascadilla
+# catalog-date 2011-07-22 07:52:25 +0200
+# catalog-license lppl
+# catalog-version 1.8
 Name:		texlive-cascadilla
 Version:	1.8
 Release:	1
@@ -45,6 +51,7 @@ WCCFL).
 %doc %{_texmfdistdir}/doc/latex/cascadilla/example.pdf
 %doc %{_texmfdistdir}/doc/latex/cascadilla/example.tex
 %doc %{_texmfdistdir}/doc/latex/cascadilla/exampleref.bib
+%doc %{_tlpkgobjdir}/*.tlpobj
 
 #-----------------------------------------------------------------------
 %prep
@@ -55,3 +62,5 @@ WCCFL).
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar bibtex tex doc %{buildroot}%{_texmfdistdir}
+mkdir -p %{buildroot}%{_tlpkgobjdir}
+cp -fpa tlpkg/tlpobj/*.tlpobj %{buildroot}%{_tlpkgobjdir}
