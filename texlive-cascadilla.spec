@@ -1,13 +1,13 @@
-# revision 23449
+# revision 24589
 # category Package
 # catalog-ctan /macros/latex/contrib/cascadilla
-# catalog-date 2011-07-22 07:52:25 +0200
+# catalog-date 2011-11-13 08:18:31 +0100
 # catalog-license lppl
-# catalog-version 1.8
+# catalog-version 1.8.1
 Name:		texlive-cascadilla
-Version:	1.8
+Version:	1.8.1
 Release:	1
-Summary:	A document class for typesetting papers conforming to the stylesheet of the Cascadilla Proceedings Project
+Summary:	Typeset papers conforming to the stylesheet of the Cascadilla Proceedings Project
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cascadilla
 License:	LPPL
