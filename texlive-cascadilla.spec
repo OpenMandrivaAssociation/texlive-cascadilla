@@ -6,7 +6,7 @@
 # catalog-version 1.8.1
 Name:		texlive-cascadilla
 Version:	1.8.1
-Release:	1
+Release:	2
 Summary:	Typeset papers conforming to the stylesheet of the Cascadilla Proceedings Project
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cascadilla
