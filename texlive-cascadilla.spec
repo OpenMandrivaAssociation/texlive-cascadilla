@@ -1,12 +1,12 @@
-# revision 24589
+# revision 25144
 # category Package
 # catalog-ctan /macros/latex/contrib/cascadilla
-# catalog-date 2011-11-13 08:18:31 +0100
+# catalog-date 2012-01-18 17:26:55 +0100
 # catalog-license lppl
-# catalog-version 1.8.1
+# catalog-version 1.8.2
 Name:		texlive-cascadilla
-Version:	1.8.1
-Release:	2
+Version:	1.8.2
+Release:	1
 Summary:	Typeset papers conforming to the stylesheet of the Cascadilla Proceedings Project
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cascadilla
