@@ -5,8 +5,8 @@ Summary:	Typeset papers conforming to the stylesheet of Cascadilla Proceedings P
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cascadilla
 License:	LPPL
-Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cascadilla.r25144.tar.xz
-Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cascadilla.doc.r25144.tar.xz
+Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cascadilla.r%{version}.tar.xz
+Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cascadilla.doc.r%{version}.tar.xz
 BuildArch:	noarch
 BuildRequires:	texlive-tlpkg
 Requires(pre):	texlive-tlpkg
