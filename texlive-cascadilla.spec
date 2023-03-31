@@ -1,6 +1,6 @@
 Name:		texlive-cascadilla
 Version:	25144
-Release:	1
+Release:	2
 Summary:	Typeset papers conforming to the stylesheet of Cascadilla Proceedings Project
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cascadilla
