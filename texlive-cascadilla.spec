@@ -3,7 +3,7 @@ Version:	25144
 Release:	2
 Summary:	Typeset papers conforming to the stylesheet of Cascadilla Proceedings Project
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cascadilla
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/cascadilla
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cascadilla.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cascadilla.doc.r%{version}.tar.xz
